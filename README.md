@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rventurino
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning JavaScript and React
-- 💞️ I’m looking to collaborate on websites
+- 👀 I’m interested in pursuing knowledge in Web Development, as well as VBA automation in Excel.
+- 🌱 I’m currently learning VBA, HTML, CSS, and Javascript.
 - 📫 How to reach me: ryan.venturino@gmail.com
 
 <!---
